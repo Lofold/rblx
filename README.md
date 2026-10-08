@@ -3,8 +3,8 @@
 
 ## 📜 **Universal scripts**
 
-**Infinite Yield:** [EdgeIY][1]
-**Anti-AFK:** [unrexl][2] / [zayn][3] / [evxncodes][4]
+- **Infinite Yield:** [EdgeIY][1]
+- **Anti-AFK:** [unrexl][2] / [zayn][3] / [evxncodes][4]
 
 ## **⚙️ How to use?**
 1. `Copy` the script.
