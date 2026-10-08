@@ -1,7 +1,7 @@
 # ScriptHub
 > A collection of proven scripts for Roblox.
 
-### 📜 **Universal scripts**
+## 📜 **Universal scripts**
 
 **Infinite Yield:** [EdgeIY][1]
 ```lua
