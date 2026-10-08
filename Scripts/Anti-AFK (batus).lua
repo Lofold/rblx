@@ -1,7 +1,3 @@
---[[
-batus made this i just forked
-]]
-
 repeat wait() until game:IsLoaded() and game.Players and game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 
 if getgenv().AntiAfkExecuted and thisoneissocoldww then 
