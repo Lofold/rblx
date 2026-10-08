@@ -4,16 +4,7 @@
 ## 📜 **Universal scripts**
 
 **Infinite Yield:** [EdgeIY][1]
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
-```
-
 **Anti-AFK:** [unrexl][2] / [zayn][3] / [evxncodes][4]
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/unrexl/Scripts/refs/heads/main/AntiAfk9b7m"))();
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hassanxzayn-lua/Anti-afk/main/antiafkbyhassanxzyn"))();
-loadstring(game:HttpGet("https://raw.githubusercontent.com/evxncodes/mainroblox/main/anti-afk", true))();
-```
 
 ## **⚙️ How to use?**
 1. `Copy` the script.
